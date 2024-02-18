@@ -1,0 +1,17 @@
+C:\DOTNET\Practicod2\Practicod2\obj\Debug\net6.0\Practicod2.csproj.AssemblyReference.cache
+C:\DOTNET\Practicod2\Practicod2\obj\Debug\net6.0\Practicod2.GeneratedMSBuildEditorConfig.editorconfig
+C:\DOTNET\Practicod2\Practicod2\obj\Debug\net6.0\Practicod2.AssemblyInfoInputs.cache
+C:\DOTNET\Practicod2\Practicod2\obj\Debug\net6.0\Practicod2.AssemblyInfo.cs
+C:\DOTNET\Practicod2\Practicod2\obj\Debug\net6.0\Practicod2.csproj.CoreCompileInputs.cache
+C:\DOTNET\Practicod2\Practicod2\bin\Debug\net6.0\Practicod2.exe
+C:\DOTNET\Practicod2\Practicod2\bin\Debug\net6.0\Practicod2.deps.json
+C:\DOTNET\Practicod2\Practicod2\bin\Debug\net6.0\Practicod2.runtimeconfig.json
+C:\DOTNET\Practicod2\Practicod2\bin\Debug\net6.0\Practicod2.dll
+C:\DOTNET\Practicod2\Practicod2\bin\Debug\net6.0\Practicod2.pdb
+C:\DOTNET\Practicod2\Practicod2\obj\Debug\net6.0\Practicod2.dll
+C:\DOTNET\Practicod2\Practicod2\obj\Debug\net6.0\refint\Practicod2.dll
+C:\DOTNET\Practicod2\Practicod2\obj\Debug\net6.0\Practicod2.pdb
+C:\DOTNET\Practicod2\Practicod2\obj\Debug\net6.0\Practicod2.genruntimeconfig.cache
+C:\DOTNET\Practicod2\Practicod2\obj\Debug\net6.0\ref\Practicod2.dll
+C:\DOTNET\Practicod2\Practicod2\bin\Debug\net6.0\Files\AllTags.json
+C:\DOTNET\Practicod2\Practicod2\bin\Debug\net6.0\Files\SelfClosingTags.json
